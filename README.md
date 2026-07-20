@@ -35,12 +35,17 @@ This project focuses on building a functional 3-jointed robotic arm engineered t
 
 ---
 
-## Hardware Component List
-* **3-DOF Robotic Arm Kit** – Structure and end-effector gripper
-* **Servo Motors** – Multi-axis joint actuators
-* **Microcontroller Board** – Embedded PWM signal processing
-* **External 5V Power Supply** – Direct motor power routing
+## Bill of Materials (BOM)
 
+| Part Name | Description / Function | Quantity | Price | Link |
+| :--- | :--- | :---: | :---: | :---: |
+| **Robot Arm Kit** | 3-DOF physical frame and gripper structure | 1 | $45.00 | [Amazon Link](https://www.amazon.com/LK-COKOINO-Compliment-Engineering-Technology/dp/B081FG1JQ1) |
+| **Servo Shield** | Expansion board to control multiple servo motors | 1 | $10.98 | [Amazon Link](https://www.amazon.com/HiLetgo-Expansion-Sensor-Arduino-Duemilanove/dp/B07VQRCC8F) |
+| **Electronics Kit** | Breadboard, jumper wires, and potentiometers | 1 | $14.00 | [Amazon Link](https://www.amazon.com/Smraza-Electronics-Potentiometer-tie-Points-Breadboard/dp/B0B62RL725) |
+| **Digital Multimeter (DMM)** | Electrical testing for voltage, current, and continuity | 1 | $11.00 | [Amazon Link](https://www.amazon.com/AstroAI-Digital-Multimeter-Voltage-Tester/dp/B01ISAMUA6) |
+| **9V Barrel Jack** | Power connector cable for the microcontroller | 1 | $6.00 | [Amazon Link](https://www.amazon.com/DZS-Elec-Connector-Experimental-5-5x2-1mm/dp/B07FDS11ZY) |
+| **9V Batteries** | Portable power source for electronics | 1 | $12.37 | [Amazon Link](https://www.amazon.com/dp/B00MH4QM1S) |
+| **Screwdriver Kit** | Precision tools for physical assembly | 1 | $5.94 | [Amazon Link](https://www.amazon.com/Small-Screwdriver-Set-Mini-Magnetic/dp/B08RYXKJW9/) |
 ---
 
 ## Technical Schematics
