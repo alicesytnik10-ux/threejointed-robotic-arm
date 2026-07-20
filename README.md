@@ -1,58 +1,52 @@
-# Smart Assistive 3-Jointed Robotic Arm with AI
+# Smart Assistive 3-Jointed Robotic Arm
 
-A 3-Degree-of-Freedom (3-DOF) robotic arm designed to assist patients and individuals with limited mobility in performing daily tasks. This project integrates precise mechanical joint control, embedded microcontrollers, Python automation, and AI computer vision.
+A 3-Degree-of-Freedom (3-DOF) robotic arm designed to assist patients and individuals with mobility challenges in performing daily tasks. This project integrates precise joint control, embedded circuitry, Python automation, and AI computer vision.
 
----
-
-## Student Information
-* **Engineer:** Alice S.
-* **Area of Interest:** Electrical & Mechanical Engineering / Robotics / Quant
-* **Grade:** 10
-* **School Name:** Nord Anglia International School Dubai
+## Engineer Profile
+* **Student:** Alice S.
+* **Focus:** Electrical & Mechanical Engineering / Quantitative Modeling
+* **Program:** BlueStamp Engineering (2026)
+* **School:** Nord Anglia International School Dubai
 ---
 
 ## Project Overview
-My project is a 3-jointed robotic arm engineered to function as a smart daily assistant. Over the course of this summer session, I will build the physical frame, wire circuit drivers, program movement trajectories in Python, and integrate AI features so the arm can identify objects and assist with daily tasks.
+This project focuses on building a functional 3-jointed robotic arm engineered to act as an automated daily assistant. Throughout the program, I am constructing the physical structure, wiring motor driver circuits, scripting joint trajectories in Python, and integrating AI vision models to enable dynamic object recognition and physical interaction.
 
 ---
 
 ## Project Milestones
 
-### Milestone 1: Physical & Electrical Base Build
-*(In Progress)*
-* Assembling the physical 3-jointed robotic arm frame.
-* Wiring servo motors to the microcontroller and power supply.
-* Testing manual joint movement routines.
-* *Milestone Video & Write-up coming soon!*
+### Milestone 1: Mechanical & Electrical Base Build
+* Assembled the 3-DOF physical frame and gripper assembly.
+* Designed and wired the motor control circuitry connecting servo actuators to the microcontroller and dedicated 5V power supply.
+* Programmed initial movement routines to test joint range, signal timing, and motor torque.
 
-### Milestone 2: Python Control & Task Automation
-*(Upcoming)*
-* Programming Python scripts to automate multi-joint routines for picking up specific objects.
+### Milestone 2: Python Trajectory Planning & Automation
+* Scripting automated routines in Python to execute multi-joint movements.
+* Implementing motion logic to assist with targeted tasks like reaching and picking up items.
 
-### Milestone 3: AI Assistant Integration
-*(Upcoming)*
-* Integrating computer vision/AI features for dynamic object identification and voice assistance.
+### Milestone 3: AI Computer Vision & Assistant Integration
+* Integrating an AI/vision pipeline to detect and classify target objects in real time.
+* Connecting model outputs to arm joint routines for autonomous pick-and-place assistance.
 
-### Milestone 4: Portfolio & Presentation Readiness
-*(Upcoming)*
-* Completing final documentation, schematics, and Demo Night presentation deck.
+### Milestone 4: System Integration & Final Presentation
+* Finalizing technical documentation, schematics, and clean code repositories.
+* Preparing the presentation and demonstration deck for Demo Night.
 
 ---
 
-## Bill of Materials
-| Part | Description |
-| :--- | :--- |
-| **3-DOF Robotic Arm Kit** | Physical frame and gripper |
-| **Servo Motors** | Actuators for joint motion |
-| **Microcontroller** | Main controller for PWM motor signals |
-| **5V Power Supply** | External power for motor torque |
+## Hardware Component List
+* **3-DOF Robotic Arm Kit** – Structure and end-effector gripper
+* **Servo Motors** – Multi-axis joint actuators
+* **Microcontroller Board** – Embedded PWM signal processing
+* **External 5V Power Supply** – Direct motor power routing
 
 ---
 
-## Schematics
-*Circuit diagrams will be added here as hardware is wired.*
+## Technical Schematics
+*Circuit diagrams and wiring schematics will be added as hardware iterations are finalized.*
 
 ---
 
-## Code
-*Code snippets will be added here as scripts are developed.*
+## Code Repository
+*Scripts and control logic will be documented here as development progresses.*
